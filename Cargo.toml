@@ -1,0 +1,13 @@
+[package]
+name = "rust_aws_lambda"
+version = "0.1.0"
+authors = ["Michael Koukoullis <mike@kouky.org>"]
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/kouky/rust_aws_lambda"
+keywords = [ "aws", "lambda", "serverless" ]
+readme = "README.md"
+description = "Rust AWS Lambda Example"
+
+[dependencies]
+
